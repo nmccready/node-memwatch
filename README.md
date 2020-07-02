@@ -1,3 +1,5 @@
+Deprecated use `@raghb1/node-memwatch`
+
 `node-memwatch`: Leak Detection and Heap Diffing for Node.JS
 ============================================================
 
